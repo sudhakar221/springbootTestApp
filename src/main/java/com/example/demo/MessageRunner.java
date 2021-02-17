@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class MessageRunner implements CommandLineRunner {
 
-	@Override
+	//modified by sudhakar login page 17/02/2021
 	public void run(String... args) throws Exception {
      System.out.println("Welcome to message runner");
 
