@@ -15,7 +15,6 @@ public class MessageRunner implements CommandLineRunner {
      System.out.println("Welcome to message runner");
      System.out.println("addition of two numbers is::"+c);
 
-     System.out.println("welcome to sudhakar");
 	}
 
 }
